@@ -1,6 +1,6 @@
 #######################################################
 #######################################################
-# Small didactic example for: inferrence using likelihood function for binary observations
+# Small didactic example for: inference using likelihood function for binary observations
 
 # O.Wani, Feb 2019
 
