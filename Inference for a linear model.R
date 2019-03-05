@@ -21,6 +21,7 @@
 #################################
 
 if ( !require(mvtnorm) )    { install.packages("mvtnorm");    library(mvtnorm)} # for computing  normal distribution for arbitrary limits
+if ( !require(MASS) )  { install.packages("MASS");    library(MASS) } # for computing  normal distribution for arbitrary limits 
 if ( !require(IDPmisc) )    { install.packages("IDPmisc");    library(IDPmisc) } # for bivariate plots
 if ( !require(adaptMCMC) )  { install.packages("adaptMCMC");    library(adaptMCMC) } # for posterior probability density sampling 
 
